@@ -52,7 +52,7 @@ rate per specialty and even found outlier mortality rates within the general sur
 from 2007-2012. I also have criticisms regarding the data collection methods used. 
 5. The identified outliers can serve as initial leads for process improvement. 
 
-6. Works Cited 
+Works Cited 
 
 
 Dobson G. P. (2020). Trauma of major surgery: A global problem that is not going away. International journal of surgery (London, England), 81, 47–54. https://doi.org/10.1016/j.ijsu.2020.07.017
@@ -75,10 +75,6 @@ https://www.johnsnowlabs.com/marketplace/surgery-mortality-rates-in-scotland-200
 
 This dataset provides data that are routinely provided to health professionals in Scotland, in confidence, to help them assess the outcomes of treatment of their patients. Used in this way, and with knowledge of the cases and the local care system, these data can be an important tool for improving the safety and quality of surgical care. Taken out of context and without this background information, these figures do not provide reliable information about surgeons’ performance. In June 2013, the Information Services Division (ISD) of National Services Scotland provided information about the mortality rates of surgeries in Scotland for six years starting from 2007 to 2012. Planning and delivering effective and specialist national services which co-ordinate, strengthen and support activities aimed at protecting the people of Scotland from infectious diseases and environmental hazards. Since the reporting of surgeon-specific outcomes was introduced in 2013, case numbers and risk-adjusted 90-day mortality rates in patients undergoing an “elective” or “scheduled” major colorectal cancer resection have been reported for individual consultant colorectal surgeons. The increase in the percentage procedures performed as a day case is attributable to a combination of efforts by NHS boards to provide day surgery for relevant cases and improvements in the level of procedure recording for outpatient attendances.
 
-Deliverables
-
-A recording of my Tableau presentation regarding my findings of Scotland Surgical Mortality from 2007-2012.
-
 Data Description
 
 Year	Indicates the recording year of data.	date	-
@@ -96,6 +92,10 @@ Episodes	Refers to the number of episodes.	integer	level : Ratio
 Deaths	Indicates the number of deaths.	integer	level : Ratio
 
 Mortality_Rate	Indicates the surgeon's mortality rates. It is calculated by the number of deaths/number of episodes.	number	level : Ratio
+
+Deliverables
+
+A recording of my Tableau presentation regarding my findings of Scotland Surgical Mortality from 2007-2012.
 
 Summary of Findings
 
