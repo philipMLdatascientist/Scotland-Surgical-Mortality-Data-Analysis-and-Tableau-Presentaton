@@ -67,7 +67,7 @@ Weiser T G, Makary M A, Haynes A B, Dziekan G, Berry W R. et al. 2009. “Standa
 
 Weiser T G, Semel M E, Simon A E, Lipsitz S R, Haynes A B. et al. 2011. “In-Hospital Death Following Inpatient Surgical Procedures in the United States, 1996–2006.” World Journal of Surgery 35 (9): 1950–56.  
 
-WHO (World Health Organization). 2010. “Tool for Situational Analysis to Assess Emergency and Essential Surgical Care.” Geneva: WHO. http://www .who.int/surgery /publications/QuickSitAnalysisEESCsurvey.pdf.
+WHO (World Health Organization). 2010. “Tool for Situational Analysis to Assess Emergency and Essential Surgical Care.” Geneva: WHO. http://www .who.int/surgery/publications/QuickSitAnalysisEESCsurvey.pdf.
 
 Data
 
