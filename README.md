@@ -69,17 +69,11 @@ Weiser T G, Semel M E, Simon A E, Lipsitz S R, Haynes A B. et al. 2011. “In-Ho
 
 WHO (World Health Organization). 2010. “Tool for Situational Analysis to Assess Emergency and Essential Surgical Care.” Geneva: WHO. http://www .who.int/surgery /publications/QuickSitAnalysisEESCsurvey.pdf.
 
-Overview
-
-The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
-
 Data
 
 https://www.johnsnowlabs.com/marketplace/surgery-mortality-rates-in-scotland-2007-2012/
 
-This dataset provides data that are routinely provided to health professionals in Scotland, in confidence, to help them assess the outcomes of treatment of their patients. Used in this way, and with knowledge of the cases and the local care system, these data can be an important tool for improving the safety and quality of surgical care. Taken out of context and without this background information, these figures do not provide reliable information about surgeons’ performance.
-In June 2013, the Information Services Division (ISD) of National Services Scotland provided information about the mortality rates of surgeries in Scotland for six years starting from 2007 to 2012. Planning and delivering effective and specialist national services which co-ordinate, strengthen and support activities aimed at protecting the people of Scotland from infectious diseases and environmental hazards. Since the reporting of surgeon-specific outcomes was introduced in 2013, case numbers and risk-adjusted 90-day mortality rates in patients undergoing an “elective” or “scheduled” major colorectal cancer resection have been reported for individual consultant colorectal surgeons. The increase in the percentage procedures performed as a day case is attributable to a combination of efforts by NHS boards to provide day surgery for relevant cases and improvements in the level of procedure recording for outpatient attendances.
-
+This dataset provides data that are routinely provided to health professionals in Scotland, in confidence, to help them assess the outcomes of treatment of their patients. Used in this way, and with knowledge of the cases and the local care system, these data can be an important tool for improving the safety and quality of surgical care. Taken out of context and without this background information, these figures do not provide reliable information about surgeons’ performance. In June 2013, the Information Services Division (ISD) of National Services Scotland provided information about the mortality rates of surgeries in Scotland for six years starting from 2007 to 2012. Planning and delivering effective and specialist national services which co-ordinate, strengthen and support activities aimed at protecting the people of Scotland from infectious diseases and environmental hazards. Since the reporting of surgeon-specific outcomes was introduced in 2013, case numbers and risk-adjusted 90-day mortality rates in patients undergoing an “elective” or “scheduled” major colorectal cancer resection have been reported for individual consultant colorectal surgeons. The increase in the percentage procedures performed as a day case is attributable to a combination of efforts by NHS boards to provide day surgery for relevant cases and improvements in the level of procedure recording for outpatient attendances.
 
 Deliverables
 
