@@ -2,6 +2,10 @@ Project Title
 
 Scotland Surgical Mortality 2007-2012
 
+There is an mp4 file that has a recording of my presentation. Please click on the link below to download and enjoy the video:
+
+https://github.com/philipMLdatascientist/Scotland-Surgical-Mortality-Data-Analysis-and-Tableau-Presentaton/blob/main/Surgical%20Mortality%20(1).mp4?raw=true
+
 Project Description.
 
 Can any outliers in surgical patient mortality be found per specialty, hospital, or surgical consultant in Scotland from 2007-2012.
